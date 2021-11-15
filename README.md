@@ -35,8 +35,8 @@ SCSS
 
 # Примерный внешний вид для общего понимания:
 
-![Пример авторизации](Test-tasks-refs/refOne.png)
-![Пример главной](Test-tasks-refs/refTwo.png)
+![Пример авторизации](https://github.com/SergeiSuhoV/users-images/blob/master/Test-tasks-refs/refOne.png?raw=true)
+![Пример главной](https://github.com/SergeiSuhoV/users-images/blob/master/Test-tasks-refs/refTwo.png?raw=true)
 
 
 ## Build Setup
