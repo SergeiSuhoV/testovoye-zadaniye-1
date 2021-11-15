@@ -1,12 +1,12 @@
 # Тестовое задание для ХХХХХ
 
 ## Стек:
-Nuxt.js
-Vuex
-Element UI
-vue-native-websocket
-JavaScript
-SCSS
+* Nuxt.js
+* Vuex
+* Element UI
+* vue-native-websocket
+* JavaScript
+* SCSS
 
 ## Задачи:
 
